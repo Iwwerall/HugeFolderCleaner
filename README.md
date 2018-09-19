@@ -15,10 +15,12 @@ If a file cannot be deleted it will simply be skipped. Best to start with admini
 Use cases:
 
 HugeFolderCleaner.exe "C:\ProgramData\Microsoft\Crypto\RSA\MachineKeys" *. 120
+
 --> this will delete all files without an extension in the folder C:\ProgramData\Microsoft\Crypto\RSA\MachineKeys
     that have not been written to in the last 120 hours (5 days to help you count)
 
 HugeFolderCleaner.exe C:\inetpub\logs\LogFiles *.log 48
+
 --> This will delete all log files from the IIS log folder that are at least 48 hours old. 
     Especially handy for exchange servers that have a lot of webmail access :)
     
