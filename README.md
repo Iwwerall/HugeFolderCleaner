@@ -1,5 +1,5 @@
 # HugeFolderCleaner
-Tool to delete fodlers with millions of files
+Tool to delete folders with millions of files
 
 If you ever needed to delete a folder with millions of files in them and wasted hours waiting for the counting 
 to finish in Windows Explorer then this is for you.
