@@ -1,7 +1,0 @@
-C:\Users\bart\Source\Repos\HugeFolderCleaner\HugeFolderCleaner\bin\Release\HugeFolderCleaner.exe.config
-C:\Users\bart\Source\Repos\HugeFolderCleaner\HugeFolderCleaner\bin\Release\HugeFolderCleaner.exe
-C:\Users\bart\Source\Repos\HugeFolderCleaner\HugeFolderCleaner\bin\Release\HugeFolderCleaner.pdb
-C:\Users\bart\Source\Repos\HugeFolderCleaner\HugeFolderCleaner\obj\Release\HugeFolderCleaner.csprojResolveAssemblyReference.cache
-C:\Users\bart\Source\Repos\HugeFolderCleaner\HugeFolderCleaner\obj\Release\HugeFolderCleaner.csproj.CoreCompileInputs.cache
-C:\Users\bart\Source\Repos\HugeFolderCleaner\HugeFolderCleaner\obj\Release\HugeFolderCleaner.exe
-C:\Users\bart\Source\Repos\HugeFolderCleaner\HugeFolderCleaner\obj\Release\HugeFolderCleaner.pdb
